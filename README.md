@@ -23,7 +23,7 @@ Cloning the Repository</br>
 
 git clone https://github.com/ascef182/Iphone_15_UI-UX.git
 </br>
-cd iphone</br>
+cd iphone</br></br>
 Installation</br>
 
 Install the project dependencies using npm:</br>
