@@ -9,7 +9,6 @@ React Three Drei</br>
 GSAP (Greensock)</br>
 Vite</br>
 Tailwind CSS</br>
-</br>
 <h1 align="center"> 🤸 Quick Start</h1></br>
 Follow these steps to set up the project locally on your machine.</br>
 
