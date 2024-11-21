@@ -22,7 +22,8 @@ Node.js</br>
 npm (Node Package Manager)</br>
 Cloning the Repository</br>
 
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git](https://github.com/ascef182/Iphone_15_UI-UX.git</br>
+git clone https://github.com/ascef182/Iphone_15_UI-UX.git
+</br>
 cd iphone</br>
 Installation</br>
 
